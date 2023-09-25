@@ -1,1 +1,5 @@
-
+vkApi:
+  appId: 51756637
+  clientSecret: 1cvFUr6nXJzDEkiRrARF
+  redirectURI: https://vk.com/feed
+  code: 58af8e37d3c736476e
