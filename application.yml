@@ -13,4 +13,5 @@ minio:
 
 telegram:
   token: '{cipher}97263a1cba2b73c8092074f539452ad2a5265f69a64e43c2a98e142fb1fbc7d9dba1e09e5a25ec8b0c505ff505acb3403cc8853e2d51c7a9aa0157a62db194d8'
+  name: sadovnik
 
