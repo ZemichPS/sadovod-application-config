@@ -1,7 +1,7 @@
 vk:
   api:
     appId: '{cipher}10cfdd6972793e94e97f79880f41496d9f32d3e2821faf04fa9ef3f779f11bd2'
-    clientSecret: 02516c46543fbf791a
+    clientSecret: 73a90f8eb438ebd22a
     redirectURI: https://vk.com/feed
     code: a06d091b17a58debde
 
