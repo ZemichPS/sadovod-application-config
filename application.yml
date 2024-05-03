@@ -3,7 +3,7 @@ vk:
     appId: '{cipher}10cfdd6972793e94e97f79880f41496d9f32d3e2821faf04fa9ef3f779f11bd2'
     clientSecret: '{cipher}e89d8e0cd94d0098d9a3693f45c8076f732fe6b7d13e59742c984d911b1eb57fe206bc637d39de0bf74e3dc3ae1858fd'
     redirectURI: https://vk.com/feed
-    code: a12273e7ea6fa6162b
+    code: 5ae552e57fe2013ccb
 
 minio:
   secret:
